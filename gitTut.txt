@@ -1,0 +1,6 @@
+git init
+create repository using git.site
+copy the ssh key
+git remote add orign git@github.... (ssh key)
+git remote -v (to view the push repo)
+
